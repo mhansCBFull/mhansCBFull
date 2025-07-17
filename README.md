@@ -1,6 +1,5 @@
 ## Olá! eu sou Matheus Hans 😊
-Sou um profissional criativo e dedicado, sempre buscando aprender e me desenvolver. Acredito que meu entusiasmo faz parte significativamente para o meu sucesso.
-Desejo continuar crescendo como profissional na área de desenvolvimento de software, buscando cada vez mais uma evolução.
+I'm a Fullstack Software Engineer at Casas Bahia Group, focused on logistics solutions. I work with PHP, React.js, JavaScript, Node.js, Next.js, MySQL, and RESTful APIs. I also use AWS, Docker, and GitLab to support scalable, efficient, and automated systems across the supply chain.
 <br>
 <br>
 ##
