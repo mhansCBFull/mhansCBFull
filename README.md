@@ -1,4 +1,4 @@
-## Olá! eu sou Matheus Hans 😊
+## Hello World! I'm Matheus Hans 😊
 I'm a Fullstack Software Engineer at Casas Bahia Group, focused on logistics solutions. I work with PHP, React.js, JavaScript, Node.js, Next.js, MySQL, and RESTful APIs. I also use AWS, Docker, and GitLab to support scalable, efficient, and automated systems across the supply chain.
 <br>
 <br>
