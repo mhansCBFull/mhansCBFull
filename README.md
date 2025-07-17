@@ -33,7 +33,7 @@ I'm a Fullstack Software Engineer at Casas Bahia Group, focused on logistics sol
 
 🐍 Snake eating my contribution graph
 
-![Snake animation](https://github.com/Hans-Oliveira/Hans-Oliveira/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg#00ff00&username=Hans-Oliveira)
 
  
 </div>
